@@ -1,0 +1,1 @@
+# Securing-DevOps-Pipelines-Best-Practices-with-Cosign-Distroless-Images-and-PSPs
